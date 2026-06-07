@@ -8,9 +8,10 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-  # 1시간에 한번씩 아래 스크립트를 실행한다.
-  schedule:
-    - cron: "0 */1 * * *"
+  # 외부 웹훅(Make 등)을 통해 실행되도록 설정
+  repository_dispatch:
+    types: [ tistory_new_post ]
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
