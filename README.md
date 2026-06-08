@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hello 👋
 
-## 이런 환경에 익숙해요✍🏼
+## Tech ✍🏼
 
 ### Backend
 <p>
@@ -16,4 +16,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://chee0630.tistory.com/2' target='_blank'>test</a></li><li><a href='https://chee0630.tistory.com/1' target='_blank'>Github action - 티스토리 연동</a></li></ul>
+<ul><li><a href='https://chee0630.tistory.com/1' target='_blank'>Github action - 티스토리 연동</a></li></ul>
