@@ -16,4 +16,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul></ul>
+<ul><li><a href='https://chee0630.tistory.com/2' target='_blank'>test</a></li><li><a href='https://chee0630.tistory.com/1' target='_blank'>Github action - 티스토리 연동</a></li></ul>
